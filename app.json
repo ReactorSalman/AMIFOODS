@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A market place to selling used product's",
+    "githubUrl": "https://github.com/ReactorSalman/AMIFOODS.git"
   }
 }
